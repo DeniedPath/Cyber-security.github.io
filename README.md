@@ -26,11 +26,3 @@ This persistent talent gap highlights the need for:
 2. Upskilling and reskilling initiatives for existing IT professionals
 3. Industry-academia partnerships to develop relevant curricula
 4. Retention strategies for current cybersecurity professionals
-
-## Data Source
-
-The data presented in this README is based on information from Lightcast.io for the year 2024[1].
-
----
-
-This README serves as a quick reference for understanding the current cybersecurity talent landscape in the United States. For more detailed information or specific queries, please refer to the original data source or contact relevant industry experts.

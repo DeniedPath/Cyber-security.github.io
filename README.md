@@ -34,3 +34,10 @@ The data presented in this README is based on information from Lightcast.io for 
 ---
 
 This README serves as a quick reference for understanding the current cybersecurity talent landscape in the United States. For more detailed information or specific queries, please refer to the original data source or contact relevant industry experts.
+
+
+## Doc and slides links
+Doc:
+https://docs.google.com/presentation/d/1wZDpEah3ORrC00Pbs0xFTBBDw1Fz_tgapoWW0X7k_pM/edit?usp=sharing
+Slides:
+https://docs.google.com/document/d/1Cgh5QN1ZWw0urbFxW1WG93IUhjaZKn0-OxYQGpXKAOI/edit?usp=sharing

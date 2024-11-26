@@ -1,8 +1,5 @@
 # Cybersecurity Talent Gap Analysis and DDoS Attack Pattern Visualizer
 
-## View this project on Netlify:
-https://luminous-gelato-b37654.netlify.app
-
 ## Overview
 
 This project addresses two key aspects of cybersecurity: the talent gap in the industry and the visualization of DDoS attack patterns. It provides insights into the current state of the cybersecurity job market in the United States and offers an interactive tool to understand various DDoS attack mechanisms and their impacts.
